@@ -13,6 +13,7 @@
 		E66ED8A61D4F2EB900F899CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E66ED8A41D4F2EB900F899CA /* Main.storyboard */; };
 		E66ED8A81D4F2EB900F899CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E66ED8A71D4F2EB900F899CA /* Assets.xcassets */; };
 		E66ED8AB1D4F2EB900F899CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E66ED8A91D4F2EB900F899CA /* LaunchScreen.storyboard */; };
+		E66ED8B31D4F31E000F899CA /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66ED8B21D4F31E000F899CA /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E66ED8A71D4F2EB900F899CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E66ED8AA1D4F2EB900F899CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E66ED8AC1D4F2EB900F899CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E66ED8B21D4F31E000F899CA /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E66ED8A71D4F2EB900F899CA /* Assets.xcassets */,
 				E66ED8A91D4F2EB900F899CA /* LaunchScreen.storyboard */,
 				E66ED8AC1D4F2EB900F899CA /* Info.plist */,
+				E66ED8B21D4F31E000F899CA /* SwiftyJSON.swift */,
 			);
 			path = "HWS-project7";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				E66ED8A31D4F2EB900F899CA /* DetailViewController.swift in Sources */,
 				E66ED8A11D4F2EB900F899CA /* MasterViewController.swift in Sources */,
 				E66ED89F1D4F2EB900F899CA /* AppDelegate.swift in Sources */,
+				E66ED8B31D4F31E000F899CA /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
